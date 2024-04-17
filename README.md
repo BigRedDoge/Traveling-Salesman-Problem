@@ -1,2 +1,3 @@
 # Traveling-Salesman-Problem
-Genetic and reinforcement learning algorithms to solve the traveling salesman problem
+Genetic and reinforcement learning (PPO) algorithms to solve the traveling salesman problem
+
